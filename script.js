@@ -1,2 +1,0 @@
-AmmarGerrter.sayhellow();
-yaahkeGerrter.sayhi();

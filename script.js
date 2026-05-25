@@ -1,0 +1,2 @@
+AmmarGerrter.sayhellow();
+yaahkeGerrter.sayhi();
